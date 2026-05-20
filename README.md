@@ -154,7 +154,4 @@ Predicted Value: 3.7
 
 ---
 
-## Author
 
-Project by Kamal  
-Data Scientist and NLP Engineer
